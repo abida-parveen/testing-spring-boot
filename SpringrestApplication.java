@@ -1,13 +1,13 @@
-package com.customer.rest;
+package com.springrest.springrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CustomerServiceApplication {
+public class SpringrestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CustomerServiceApplication.class, args);
+		SpringApplication.run(SpringrestApplication.class, args);
 	}
 
 }
